@@ -1,3 +1,4 @@
 # Intro-ZoomCamp
 
-# This is just an introduction ZoomCamp
+# This is just an introduction to  ZoomCamp
+ 
